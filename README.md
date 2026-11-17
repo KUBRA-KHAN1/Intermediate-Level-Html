@@ -49,4 +49,4 @@ The purpose of this project is to practice HTML forms, tables, navigation and mu
 This project helped me improve my HTML skills and understand how to create a multi-page university website.
 
 ## Author
-Created by: Student
+Created by: KUBRA ZAFAR
